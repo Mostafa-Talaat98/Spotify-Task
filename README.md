@@ -45,7 +45,7 @@ spotify-landing-clone/
 Clone the repository
 
 bash
-git clone [https://github.com/your-username/spotify-landing-clone.git](https://github.com/Mostafa-Talaat98/Spotify-Task.git)
+git clone [https://github.com/Mostafa-Talaat98/Spotify-Task.git]
 cd spotify-landing-clone
 Install dependencies
 
